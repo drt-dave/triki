@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/drt-dave/triki/static/css/main.22941023.css",
-    "main.js": "/drt-dave/triki/static/js/main.80030bac.js",
-    "index.html": "/drt-dave/triki/index.html",
-    "main.22941023.css.map": "/drt-dave/triki/static/css/main.22941023.css.map",
-    "main.80030bac.js.map": "/drt-dave/triki/static/js/main.80030bac.js.map"
+    "main.css": "/triki/static/css/main.22941023.css",
+    "main.js": "/triki/static/js/main.186b6420.js",
+    "index.html": "/triki/index.html",
+    "main.22941023.css.map": "/triki/static/css/main.22941023.css.map",
+    "main.186b6420.js.map": "/triki/static/js/main.186b6420.js.map"
   },
   "entrypoints": [
     "static/css/main.22941023.css",
-    "static/js/main.80030bac.js"
+    "static/js/main.186b6420.js"
   ]
 }
